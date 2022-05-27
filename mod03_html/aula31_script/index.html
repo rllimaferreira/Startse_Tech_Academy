@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Minha página web</title>
+        <meta charset="UTF-8">
+
+        <script>
+            window.onload = function() {
+                document.getElementById("btnAlterar").addEventListener("click", function() {
+                    var meuParagrafo = document.getElementById("meuParagrafo")
+                    meuParagrafo.innerHTML = "Acabei de alterar o parágrafo..."
+                })
+            }
+        </script>
+
+    </head>
+    <body>
+        <h1>Minha página HTML</h1>
+        <p id="meuParagrafo">Isso é um parágrafo</p>
+        <button id="btnAlterar">Alterar parágrafo</button>
+    </body>
+</html>
