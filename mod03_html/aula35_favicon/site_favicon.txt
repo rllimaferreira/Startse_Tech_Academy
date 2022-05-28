@@ -1,0 +1,2 @@
+Site para converter imagens em outros formatos para Favicon:
+https://favicon.io/
