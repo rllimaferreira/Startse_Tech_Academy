@@ -1,0 +1,21 @@
+a, .menuitem {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+  }
+  
+  a .link {
+    background-color: #0000;
+  }
+  
+  .link {
+    font-size: 50px;
+  }
+  
+  #menubar .menuitem {
+    margin: 10px;
+  }
+  
+  ul * {
+    background-color: yellow;
+  }

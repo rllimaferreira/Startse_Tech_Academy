@@ -1,0 +1,16 @@
+#titulo {
+    font-size: 45px;
+    color: blue;
+}
+
+#conteudo {
+    border: 1px solid red;
+}
+
+.teste {
+    background-color: yellow;
+}
+
+.pequeno {
+    font-size: 10px;
+}
