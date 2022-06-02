@@ -1,0 +1,22 @@
+h1 {
+    border: 5px  dotted blue;
+}
+
+/* inherit sobrescreve a técnica */
+h1 span {
+    border: inherit;
+}
+
+p {
+    background-color: blue;
+    color: white;
+}
+
+p mark {
+    background-color: inherit;
+    color: inherit
+}
+
+span {
+    background-color: red;
+}

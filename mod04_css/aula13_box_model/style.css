@@ -1,0 +1,13 @@
+#page {
+    background-color: yellow;
+}
+
+#page * {
+    border: 10px solid red;
+    background-color: blue;
+    margin: 30px;
+    padding: 30px;
+}
+
+#interno {
+    background-color: pink;
