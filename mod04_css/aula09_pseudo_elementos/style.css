@@ -1,0 +1,40 @@
+p {
+    background-color: #CCF;
+}
+
+/* p::first-letter {
+    font-size: 30px;
+    background-color: #AAD;
+} */
+
+div::first-line {
+    color: blue;
+}
+
+/* Somente elemento p com a classe destaque */
+p.destaque::first-letter {
+    font-size: 30px;
+    background-color: #AAD;
+} 
+
+::marker {
+    background-color: green;
+}
+
+li {
+    color: green;
+}
+
+ul li::marker {
+    color: red;
+}
+
+::selection {
+    background: yellow;
+    color: red;
+}
+
+div::selection {
+    color: black;
+    background-color: white;
+}
