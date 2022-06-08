@@ -1,0 +1,11 @@
+p {
+    border: 1px solid red;
+    background-color: pink;
+    margin: 10px;
+}
+
+p.ex1 {display: none;}
+p.ex1a {visibility: hidden;}
+p.ex2 {display: inline; width: 300px;}
+p.ex3 {display: block;}
+p.ex4 {display: inline-block; width: 300px;}
