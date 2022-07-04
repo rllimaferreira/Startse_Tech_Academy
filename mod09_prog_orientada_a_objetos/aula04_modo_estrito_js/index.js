@@ -1,4 +1,4 @@
-'use scrict';
+'use strict';
 
 let nome = 'Ana';
 nome = 'Pedro'
