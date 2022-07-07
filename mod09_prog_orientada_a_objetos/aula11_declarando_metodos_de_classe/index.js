@@ -43,6 +43,6 @@ console.log(prod.parcelaValor(2));
 // prod.descricao = 'Novo produto';
 // console.log(prod.descricao);
 
-function volumeProduto() {
+// function volumeProduto() {
 
-}
+// }
