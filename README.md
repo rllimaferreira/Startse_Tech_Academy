@@ -3,7 +3,7 @@
 
 # Sobre o curso
 
-<img src="https://images.squarespace-cdn.com/content/v1/5cdc4e5b9d41495d02c7186d/1595951742877-QJL4C8HZHJWK8BZZCWF8/startse-logo-tagline.gif" width="500" style="max-width: 100%;">
+<img src="https://images.squarespace-cdn.com/content/v1/5cdc4e5b9d41495d02c7186d/1595951742877-QJL4C8HZHJWK8BZZCWF8/startse-logo-tagline.gif" width="350" style="max-width: 100%;">
 
 Organizada pela StartSe, a certificação tem o objetivo de formar novos desenvolvedores para o mercado. O programa é organizado em 12 semanas e conta com aulas teóricas e práticas focadas em Back End e Front End.
 
