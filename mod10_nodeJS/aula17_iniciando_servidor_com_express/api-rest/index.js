@@ -10,5 +10,5 @@ app.listen(PORT, () => {
 });
 
 app.get('/', (request, response) => {
-    response.send('<h1>Trabalhando com servidor express.</h2>')
+    response.send('<h1>Trabalhando com servidor express.</h1>')
 })
